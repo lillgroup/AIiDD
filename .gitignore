@@ -172,3 +172,7 @@ cython_debug/
 
 # Compressed data files
 *.tar.gz
+
+# macOS system files
+.DS_Store
+**/.DS_Store
